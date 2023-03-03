@@ -25,3 +25,5 @@ graph TD;
 ```
 
 from local
+
+from subtree
