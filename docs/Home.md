@@ -27,3 +27,6 @@ graph TD;
 from local
 
 from subtree
+
+from subtree vscode
+from subtree vscode new stage
